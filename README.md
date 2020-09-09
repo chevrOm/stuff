@@ -25,3 +25,9 @@
 **git push**
 >  envia alterações locais para o repositório remoto
 
+**git commit -am "msg"**
+>   -am = git add . + git commit -m "msg" 
+
+**git checkout -b branch_name**
+>   cria branch e faz checkout nela
+
