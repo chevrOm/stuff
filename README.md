@@ -20,3 +20,9 @@
 
 - [x] **git checkout -b branch_name** //   cria branch e faz checkout nela
 
+- [x] **git checkout hash_code file_name** // volta arquivo especifico naquele determinado hash
+
+- [x] **git clone** // clona um repo
+
+- [x] **git pull** // recebe do repositório remoto
+
